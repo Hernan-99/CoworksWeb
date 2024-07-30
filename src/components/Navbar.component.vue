@@ -18,7 +18,7 @@
         aria-controls="navbar-solid-bg"
         aria-expanded="false"
       >
-        <span class="sr-only">Open main menu</span>
+        <span class="sr-only">Abrir menu</span>
         <svg
           class="w-5 h-5"
           aria-hidden="true"
